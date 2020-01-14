@@ -1,0 +1,10 @@
+list =[] 	//indexed,ordered,changeable
+tuple=() 	//indexed,ordered,unchangeable
+---------------------------------------------
+set={}   	//unindexed,unordered,changeable   
+
+dictionary={key:value} //indexed,ordered,changeable
+--------------------------------------------------
+
+split
+count

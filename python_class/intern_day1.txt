@@ -1,0 +1,29 @@
+cleaning & filtering
+
+clustering + classification
+
+clustering- k-menas
+
+
+classfication-
+.suppoort vector m/c
+.random forest
+.decision tree
+.k-nearest + neighbour
+.linear regression
+.logistic regression
+.Decision tree
+
+python latest 3.8
+
+w/p - godwithus..
+
+4.52
+6.48
+
+datatype
+.list 
+.dictionary
+.tuple
+.range
+.none
